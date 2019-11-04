@@ -1,0 +1,1 @@
+One function of operating systems is memory management.  Programs that are running need to be placed into RAM to have interactions with the CPU.  The operating system manages which programs and data occupy space in the RAM, sometimes swapping them in and out when the RAM is full.
